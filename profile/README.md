@@ -1,8 +1,12 @@
-Hello there 👋
+# Tryvium Travels
 
-![Random Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default)
+<center>
+    <img src="/profile/assets/tryvium-logo.png" height="100" width="100" />
+</center>
 
-Thanks for coming to our profile. Here is a few things to know us better:
+Hello there 👋 and welcome to your next travel partner
+
+Thanks for coming to our profile. Here is a few things to know us better and stay tuned on our developments:
 
 [![Twitter: TryviumTravels](https://img.shields.io/twitter/follow/TryviumTravels?style=social)](https://twitter.com/TryviumTravels)
 [![GitHub @tryvium-travels](https://img.shields.io/github/followers/saniales?label=follow&style=social)](https://github.com/tryvium-travels)
