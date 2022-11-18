@@ -1,8 +1,6 @@
-# Tryvium Travels
+![Tryvium Travels logo](assets/tryvium-logo.png)
 
-<center>
-    <img src="/profile/assets/tryvium-logo.png" height="100" width="100" />
-</center>
+# Tryvium Travels
 
 Hello there 👋 and welcome to your next travel partner
 
