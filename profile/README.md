@@ -1,4 +1,4 @@
-![Tryvium Travels logo](assets/tryvium-logo.png)
+![Tryvium Travels logo](/profile/assets/tryvium-logo.png)
 
 # Tryvium Travels
 
